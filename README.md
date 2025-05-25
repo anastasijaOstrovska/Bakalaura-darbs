@@ -10,3 +10,9 @@ Strauji attīstošie lielu valodu modeļi (LVM) ne tikai sniedz jaunas iespējas
 - prasibu_saraksts.txt - Ir aprakstītas nepieciešamo *Python* pakotņu versijas, kas vajadzīgas kopsavilkuma veidošanas un klasifikācijas uzdevumu apmācībai.
 - 4_sadala_klasifikacijas_uzdevums.py - Tas ir izmantots 3.5. eksperimentā resursu noskaidrošanai un 4.3. sadaļā klasifikācijas uzdevumu apmācībai.
 - 4_sadala_kopsavilkums_uzdevums.py - Tas ir izmantots 4.4. sadaļā kopsavilkuma veidošanas uzdevuma apmācībai.
+
+# Informācijas avoti
+- Python. (2025) Python. Python dokumentācija. Pieejams: https://docs.python.org/3.12/ 
+- De Silva, M. T. (2023). Multilingual Dialogue Summary Generation System for Customer Services (Doctoral dissertation, University of Westminster). Pieejams: https://doi.org/10.13140/RG.2.2.34689.02400
+- Massaron, L. Fine-tune Llama 2 for sentiment analysis. Python kods. Kaggle, 2024. Pieejams: https://www.kaggle.com/code/lucamassaron/fine-tune-llama-2-for-sentiment-analysis/ [skatīts: 22.03.2025]
+- HuggingFace. HuggingFace: The AI community building the future (2025). Pieejams: https://huggingface.co [skatīts: 21.03.2025]
